@@ -1,2 +1,2 @@
 # BDdocumentacao
-Repositório com os scripts do banco de dados e documentação do projeto
+Repositório com documentação e scripts do banco de dados do projeto
